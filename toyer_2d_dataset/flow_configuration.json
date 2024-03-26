@@ -1,0 +1,7 @@
+{
+  "n_transforms": 4,
+  "n_spline_bins": 8,
+  "aux_nodes": 128,
+  "aux_layers": 2,
+  "batch_size": 512
+}

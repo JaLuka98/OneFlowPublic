@@ -1,0 +1,16 @@
+{
+    "v1B": {
+        "r": 0.5,
+        "r_condPreFac": 0.15,
+        "x_threshold": 0.5,
+        "scale": 1.1,
+        "scale_condPreFac": 0.35
+    },
+    "v2B": {
+        "r": 0.3,
+        "r_condPreFac": 0.1,
+        "x_threshold": 0.8,
+        "scale": 1.1,
+        "scale_condPreFac": 0.15
+    }
+}

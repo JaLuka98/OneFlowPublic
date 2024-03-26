@@ -1,0 +1,25 @@
+configuration_one_flow_AR:
+    n_transforms   : 6
+    aux_nodes      : 128
+    aux_layers     : 2
+    n_splines_bins : 8
+    max_x_triang   : 0.1
+    initial_lr     : 1.0e-3
+    batch_size     : 1024
+    autoregressive : True
+configuration_one_flow_CB:
+    n_transforms   : 6
+    aux_nodes      : 128
+    aux_layers     : 2
+    n_splines_bins : 8
+    max_x_triang   : 0.1
+    initial_lr     : 1.0e-3
+    batch_size     : 1024
+    autoregressive : False
+
+
+
+
+
+
+

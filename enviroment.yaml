@@ -1,0 +1,17 @@
+name: one-flow
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.9
+  - pyyaml
+  - numpy
+  - mplhep
+  - hist
+  - pandas
+  - scikit-learn
+  - matplotlib=3.5.2
+  - xgboost=2.0.3
+  - pip:
+    - torch
+    - zuko==1.0.1

@@ -1,0 +1,1 @@
+python main.py --yamlpath 'network_configs.yaml' --filespath "/net/scratch_cms3a/daumann/normalizing_flows_project/NFlows23_3a-ETH/simulation_correction_with_nl/data/new_data_noise_tails_shift/" --outpath "/" 

@@ -1,0 +1,14 @@
+{
+    "v1A": {
+        "mean": -0.5,
+        "mean_condPreFac": 0.2,
+        "std": 0.8,
+        "std_condPreFac": 0.1
+    },
+    "v2A": {
+        "mean": 0.5,
+        "mean_condPreFac": 0.1,
+        "std": 1.0,
+        "std_condPreFac": 0.2
+    }
+}
